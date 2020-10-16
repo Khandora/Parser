@@ -1,0 +1,8 @@
+<!ELEMENT gameclub (all_about_computer)>
+        <!ELEMENT all_about_computer (specifications)>
+        <!ELEMENT specifications (name,producer,type,cpu,cost)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT producer (#PCDATA)>
+        <!ELEMENT type (#PCDATA)>
+        <!ELEMENT cpu (#PCDATA)>
+        <!ELEMENT cost (#PCDATA)>

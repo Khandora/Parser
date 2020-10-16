@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE gameclub SYSTEM "computer.dtd">
+<gameclub>
+    <all_about_computer>
+        <specifications>
+            <name>ACOS System 1000</name>
+            <producer>ACOS</producer>
+            <type>Terminal</type>
+            <cpu>Intel Pentium 4</cpu>
+            <cost>750</cost>
+        </specifications>
+    </all_about_computer>
+
+    <all_about_computer>
+        <specifications>
+            <name>HITAC E-800 Series</name>
+            <producer>HITAC</producer>
+            <type>Gaming</type>
+            <cpu>Intel Core i7-9700k</cpu>
+            <cost>1520</cost>
+        </specifications>
+    </all_about_computer>
+
+    <all_about_computer>
+        <specifications>
+            <name>E575-5 231</name>
+            <producer>Acer</producer>
+            <type>Business</type>
+            <cpu>Intel core i3-4700</cpu>
+            <cost>950</cost>
+        </specifications>
+    </all_about_computer>
+
+    <all_about_computer>
+        <specifications>
+            <name>ACOS System 1000</name>
+            <producer>ACOS</producer>
+            <type>Terminal</type>
+            <cpu>Intel Pentium 4</cpu>
+            <cost>750</cost>
+        </specifications>
+    </all_about_computer>
+
+    <all_about_computer>
+        <specifications>
+            <name>HITAC E-800 Series</name>
+            <producer>HITAC</producer>
+            <type>Gaming</type>
+            <cpu>Intel Core i7-9700k</cpu>
+            <cost>1520</cost>
+        </specifications>
+    </all_about_computer>
+
+    <all_about_computer>
+        <specifications>
+            <name>E575-5 231</name>
+            <producer>Acer</producer>
+            <type>Business</type>
+            <cpu>Intel core i3-4700</cpu>
+            <cost>950</cost>
+        </specifications>
+    </all_about_computer>
+</gameclub>
+
+
+

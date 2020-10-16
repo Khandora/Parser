@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gameclub xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xmlns="$LOCAL_SCHEMA$"
+          xsd:noNamespaceSchemaLocation="computer.xsd">
+    <computer>
+        <about_computer>
+            <name>ACOS System 1000</name>
+            <producer>ACOS</producer>
+            <type>Terminal</type>
+            <cpu>Intel Pentium 4</cpu>
+            <cost>750</cost>
+        </about_computer>
+
+        <about_computer>
+            <name>HITAC E-800 Series</name>
+            <producer>HITAC</producer>
+            <type>Gaming</type>
+            <cpu>Intel Core i7-9700k</cpu>
+            <cost>1520</cost>
+        </about_computer>
+
+        <about_computer>
+            <name>E575-5 231</name>
+            <producer>Acer</producer>
+            <type>Business</type>
+            <cpu>Intel core i3-4700</cpu>
+            <cost>950</cost>
+        </about_computer>
+
+        <about_computer>
+            <name>ACOS System 1000</name>
+            <producer>ACOS</producer>
+            <type>Terminal</type>
+            <cpu>Intel Pentium 4</cpu>
+            <cost>750</cost>
+        </about_computer>
+
+        <about_computer>
+            <name>HITAC E-800 Series</name>
+            <producer>HITAC</producer>
+            <type>Gaming</type>
+            <cpu>Intel Core i7-9700k</cpu>
+            <cost>1520</cost>
+        </about_computer>
+
+        <about_computer>
+            <name>E575-5 231</name>
+            <producer>Acer</producer>
+            <type>Business</type>
+            <cpu>Intel core i3-4700</cpu>
+            <cost>950</cost>
+        </about_computer>
+    </computer>
+</gameclub>
